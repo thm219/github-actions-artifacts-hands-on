@@ -31,4 +31,4 @@ jobs:
         path: ./artifacts/hello.txt
     - run: |
         pwd
-        ls -al
+        ls -al artifacts
